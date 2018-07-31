@@ -1,0 +1,28 @@
+{
+  "name": "fastify-typescript-starter",
+  "version": "1.0.0",
+  "description": "Fastify TypeScript starter repository",
+  "scripts": {
+    "start": "npm run dev",
+    "dev": "cross-env NODE_ENV=development nodemon",
+    "debug": "nodemon --config nodemon-debug.json",
+    "format": "prettier --write \"src/**/*.ts\"",
+    "build": "rimraf dist && tsc",
+    "prod": "cross-env NODE_ENV=production node dist/server.js"
+  },
+  "author": "Matschik <mathieu.schimmerling@protonmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^1.9.0"
+  },
+  "devDependencies": {
+    "@types/node": "^10.5.4",
+    "cross-env": "^5.2.0",
+    "nodemon": "^1.17.5",
+    "prettier": "^1.13.6",
+    "rimraf": "^2.6.2",
+    "ts-node": "^7.0.0",
+    "tsconfig-paths": "^3.4.1",
+    "typescript": "^3.0.1"
+  }
+}
