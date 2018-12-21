@@ -1,6 +1,6 @@
 {
   "name": "fastify-typescript-starter",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Fastify TypeScript starter repository",
   "scripts": {
     "start": "npm run dev",
@@ -13,16 +13,16 @@
   "author": "Matschik <mathieu.schimmerling@protonmail.com>",
   "license": "MIT",
   "dependencies": {
-    "fastify": "^1.9.0"
+    "fastify": "^1.13.3"
   },
   "devDependencies": {
-    "@types/node": "^10.5.4",
+    "@types/node": "^10.12.18",
     "cross-env": "^5.2.0",
-    "nodemon": "^1.17.5",
-    "prettier": "^1.13.6",
+    "nodemon": "^1.18.9",
+    "prettier": "^1.15.3",
     "rimraf": "^2.6.2",
-    "ts-node": "^7.0.0",
-    "tsconfig-paths": "^3.4.1",
-    "typescript": "^3.0.1"
+    "ts-node": "^7.0.1",
+    "tsconfig-paths": "^3.7.0",
+    "typescript": "^3.2.2"
   }
 }
