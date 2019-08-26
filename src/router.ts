@@ -1,4 +1,4 @@
-import { welcome, hello } from "../handlers";
+import { welcome, hello } from "./handlers";
 
 export default function router(fastify, opts, next) {
   fastify.get("/", welcome);
