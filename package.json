@@ -21,7 +21,7 @@
     "nodemon": "^1.19.3",
     "prettier": "^1.18.2",
     "rimraf": "^3.0.0",
-    "ts-node": "^8.3.0",
+    "ts-node": "^8.4.1",
     "tsconfig-paths": "^3.9.0",
     "typescript": "^3.5.3"
   }
