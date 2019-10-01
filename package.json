@@ -17,7 +17,7 @@
   },
   "devDependencies": {
     "@types/node": "^12.7.2",
-    "cross-env": "^5.2.0",
+    "cross-env": "^6.0.0",
     "nodemon": "^1.19.3",
     "prettier": "^1.18.2",
     "rimraf": "^3.0.0",
