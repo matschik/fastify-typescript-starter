@@ -16,7 +16,7 @@
     "fastify": "^2.9.0"
   },
   "devDependencies": {
-    "@types/node": "^12.7.8",
+    "@types/node": "^12.11.2",
     "cross-env": "^6.0.0",
     "@types/node": "^12.7.8",
     "cross-env": "^5.2.0",
