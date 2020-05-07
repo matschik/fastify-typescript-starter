@@ -16,7 +16,7 @@
     "fastify": "^2.13.1"
   },
   "devDependencies": {
-    "@types/node": "^13.11.1",
+    "@types/node": "^13.13.5",
     "cross-env": "^7.0.2",
     "nodemon": "^2.0.3",
     "prettier": "^2.0.4",
