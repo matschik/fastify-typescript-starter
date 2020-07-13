@@ -13,7 +13,7 @@
   "author": "Matschik <mathieu.schimmerling@protonmail.com>",
   "license": "MIT",
   "dependencies": {
-    "fastify": "^2.14.1"
+    "fastify": "^3.0.2"
   },
   "devDependencies": {
     "@types/node": "^14.0.6",
