@@ -10,24 +10,28 @@ Fastify & TypeScript starter repository.
 $ git clone https://github.com/Matschik/fastify-typescript-starter.git
 $ cd fastify-typescript-starter
 $ npm install
-$ rm -rf .git # Remove repository's git directory
 ```
 
 ## Usage
 
+### Development
 ```bash
-# development: hot reload with nodemon
+# Required: typescript watch compilation
+$ npm run watch
+
+# Required: development server with hot reload (nodemon)
 $ npm run dev
 
-# debug
-$ npm run debug
-
-# format with prettier
+# Format with prettier
 $ npm run format
+```
 
+### Production
+
+```bash
 # build for production
 $ npm run build
 
-# production
-$ npm run prod
+# start production app
+$ npm start
 ```
