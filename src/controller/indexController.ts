@@ -10,7 +10,7 @@ export default async function userController(fastify: FastifyInstance) {
     _request: FastifyRequest,
     reply: FastifyReply
   ) {
-    const indexHtmlPath = resolve(__dirname, "../static/index.html");
+    const indexHtmlPath = resolve(__dirname, "../../static/index.html");
     const indexHtmlContent = await readFile(indexHtmlPath);
     reply
       .header("Content-Type", "text/html; charset=utf-8")

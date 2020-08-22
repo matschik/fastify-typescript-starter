@@ -12,6 +12,7 @@
   "author": "Matschik <mathieu.schimmerling@protonmail.com>",
   "license": "MIT",
   "dependencies": {
+    "cross-env": "^7.0.2",
     "fastify": "^3.2.1"
   },
   "devDependencies": {
