@@ -1,8 +1,6 @@
 # Fastify & Typescript App
 
-## Description
-
-Fastify & TypeScript starter repository.
+> Fastify & TypeScript starter repository.
 
 ## Installation
 
