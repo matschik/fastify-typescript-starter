@@ -4,7 +4,7 @@ import { resolve } from "path";
 
 const { readFile } = promises;
 
-export default async function userController(fastify: FastifyInstance) {
+export default async function indexController(fastify: FastifyInstance) {
   // GET /
   fastify.get("/", async function (
     _request: FastifyRequest,
