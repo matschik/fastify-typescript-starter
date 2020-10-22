@@ -24,10 +24,10 @@
   resolved "https://registry.yarnpkg.com/@types/json5/-/json5-0.0.29.tgz#ee28707ae94e11d2b827bcbe5270bcea7f3e71ee"
   integrity sha1-7ihweulOEdK4J7y+UnC86n8+ce4=
 
-"@types/node@^14.11.10":
-  version "14.11.10"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-14.11.10.tgz#8c102aba13bf5253f35146affbf8b26275069bef"
-  integrity sha512-yV1nWZPlMFpoXyoknm4S56y2nlTAuFYaJuQtYRAOU7xA/FJ9RY0Xm7QOkaYMMmr8ESdHIuUb6oQgR/0+2NqlyA==
+"@types/node@^14.14.0":
+  version "14.14.0"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-14.14.0.tgz#f1091b6ad5de18e8e91bdbd43ec63f13de372538"
+  integrity sha512-BfbIHP9IapdupGhq/hc+jT5dyiBVZ2DdeC5WwJWQWDb0GijQlzUFAeIQn/2GtvZcd2HVUU7An8felIICFTC2qg==
 
 abbrev@1:
   version "1.1.1"
@@ -375,10 +375,10 @@ fastify-warning@^0.2.0:
   resolved "https://registry.yarnpkg.com/fastify-warning/-/fastify-warning-0.2.0.tgz#e717776026a4493dc9a2befa44db6d17f618008f"
   integrity sha512-s1EQguBw/9qtc1p/WTY4eq9WMRIACkj+HTcOIK1in4MV5aFaQC9ZCIt0dJ7pr5bIf4lPpHvAtP2ywpTNgs7hqw==
 
-fastify@^3.6.0:
-  version "3.6.0"
-  resolved "https://registry.yarnpkg.com/fastify/-/fastify-3.6.0.tgz#b5fae09eccecb2be9e4ff24abc98cd7f0f0d10c3"
-  integrity sha512-nz35mhJpJNjSPZzw05x+ITXokeIMmG3MFPzzS/yNzDfw24sGol7Gr3cN3+X3t3PZV1kQG9vJbKDUzgDA+YbbCA==
+fastify@^3.7.0:
+  version "3.7.0"
+  resolved "https://registry.yarnpkg.com/fastify/-/fastify-3.7.0.tgz#b177cbb50efe4d38a3758427432f46eb873843b1"
+  integrity sha512-xmiR1TOSNXXNHfEvBwhWlyj158q59vZkPLIKQ71f7qJG5QMPqCbeYUUFRaDKTaLFhRqmLLFprBpJsO5nbSMiPQ==
   dependencies:
     abstract-logging "^2.0.0"
     ajv "^6.12.2"
@@ -388,7 +388,7 @@ fastify@^3.6.0:
     fastify-warning "^0.2.0"
     find-my-way "^3.0.0"
     flatstr "^1.0.12"
-    light-my-request "^4.1.0"
+    light-my-request "^4.2.0"
     pino "^6.2.1"
     proxy-addr "^2.0.5"
     readable-stream "^3.4.0"
@@ -670,10 +670,10 @@ latest-version@^5.0.0:
   dependencies:
     package-json "^6.3.0"
 
-light-my-request@^4.1.0:
-  version "4.1.1"
-  resolved "https://registry.yarnpkg.com/light-my-request/-/light-my-request-4.1.1.tgz#71a4f5742affd21d54e70895b6c6cec08feb9bad"
-  integrity sha512-4H0T0PQcFB/fGTIkNV5ShuftWnuUKdtLWq5t2zt+lwMWRZkVviTfmJqGOXeAAqkdREnGJQXa8zJ4wXJ0LrzrTA==
+light-my-request@^4.2.0:
+  version "4.2.1"
+  resolved "https://registry.yarnpkg.com/light-my-request/-/light-my-request-4.2.1.tgz#c5a613af6a0cbb91eff06f83844ceac85ed03b10"
+  integrity sha512-33FZvX/418IEy0sXldsLiJifbS/ruttcVveTbbZ8sQVR2VSFPA39hBu/iF/hVkt/1V0N7CdTQg4jiiVPdGgW8A==
   dependencies:
     ajv "^6.12.2"
     cookie "^0.4.0"
