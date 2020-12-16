@@ -1,6 +1,6 @@
 {
   "name": "fastify-typescript-starter",
-  "version": "4.0.0",
+  "version": "4.1.0",
   "description": "Fastify TypeScript starter repository",
   "scripts": {
     "watch": "tsc --watch --preserveWatchOutput --pretty",
@@ -16,8 +16,8 @@
     "fastify": "^3.9.1"
   },
   "devDependencies": {
-    "fastify-tsconfig": "^1.0.1",
     "@types/node": "^14.14.14",
+    "fastify-tsconfig": "^1.0.1",
     "nodemon": "^2.0.6",
     "prettier": "^2.2.1",
     "rimraf": "^3.0.2",

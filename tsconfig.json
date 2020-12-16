@@ -1,6 +1,7 @@
 {
   "extends": "fastify-tsconfig",
   "compilerOptions": {
+    "moduleResolution": "node",
     "target": "es6",
     "lib": [
       "dom",
