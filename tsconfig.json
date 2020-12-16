@@ -1,14 +1,6 @@
 {
   "extends": "fastify-tsconfig",
   "compilerOptions": {
-    "moduleResolution": "node",
-    "target": "es6",
-    "lib": [
-      "dom",
-      "es6",
-      "es2017",
-      "esnext.asynciterable"
-    ],
     "sourceMap": true,
     "outDir": "./dist",
     "noImplicitAny": true,
@@ -27,7 +19,6 @@
     "node_modules"
   ],
   "include": [
-    "./src/**/*.tsx",
     "./src/**/*.ts"
   ]
 }
