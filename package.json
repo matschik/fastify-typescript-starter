@@ -19,7 +19,7 @@
     "@types/node": "latest",
     "fastify-tsconfig": "^1.0.1",
     "nodemon": "^2.0.7",
-    "prettier": "^2.2.1",
+    "prettier": "^2.3.0",
     "rimraf": "^3.0.2",
     "tsconfig-paths": "^3.9.0",
     "typescript": "^4.2.4"
