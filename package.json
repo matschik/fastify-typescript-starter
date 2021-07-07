@@ -21,7 +21,7 @@
     "nodemon": "^2.0.9",
     "prettier": "^2.3.2",
     "rimraf": "^3.0.2",
-    "tsconfig-paths": "^3.9.0",
+    "tsconfig-paths": "^3.10.1",
     "typescript": "^4.3.5"
   }
 }
