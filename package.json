@@ -18,7 +18,7 @@
   "devDependencies": {
     "@types/node": "latest",
     "fastify-tsconfig": "^1.0.1",
-    "nodemon": "^2.0.9",
+    "nodemon": "^2.0.10",
     "prettier": "^2.3.2",
     "rimraf": "^3.0.2",
     "tsconfig-paths": "^3.10.1",
