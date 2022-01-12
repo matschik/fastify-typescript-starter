@@ -12,11 +12,11 @@
   "author": "Matschik <mathieu.schimmerling@protonmail.com>",
   "license": "MIT",
   "dependencies": {
-    "cross-env": "^7.0.3",
     "fastify": "^3.25.3"
   },
   "devDependencies": {
     "@types/node": "latest",
+    "cross-env": "^7.0.3",
     "fastify-tsconfig": "^1.0.1",
     "nodemon": "^2.0.15",
     "prettier": "^2.5.1",
