@@ -403,10 +403,10 @@ fastify-warning@^0.2.0:
   resolved "https://registry.yarnpkg.com/fastify-warning/-/fastify-warning-0.2.0.tgz#e717776026a4493dc9a2befa44db6d17f618008f"
   integrity sha512-s1EQguBw/9qtc1p/WTY4eq9WMRIACkj+HTcOIK1in4MV5aFaQC9ZCIt0dJ7pr5bIf4lPpHvAtP2ywpTNgs7hqw==
 
-fastify@^3.27.3:
-  version "3.27.3"
-  resolved "https://registry.yarnpkg.com/fastify/-/fastify-3.27.3.tgz#fb48dc55eaad09fcbff3cd001a8a2098c36b4232"
-  integrity sha512-Cvg0PF68JFzDREp7cEo1YSylzseK+w4FqREffB3sR4uaFHJf8g93rww5AMyvvOXdGVUyaD3r8IKUPn/VNcv8hw==
+fastify@^3.27.4:
+  version "3.27.4"
+  resolved "https://registry.yarnpkg.com/fastify/-/fastify-3.27.4.tgz#67ffd61b5bea74768a7de28dbef5b6bc58f9e953"
+  integrity sha512-SOfnHBxG9zxCSIvt6aHoR/cao8QBddWmGP/mb5KQKRc+KI1kB7b79M2hCDOTSyHdLAF2OX+oI6X3weeLc+MqKg==
   dependencies:
     "@fastify/ajv-compiler" "^1.0.0"
     abstract-logging "^2.0.0"
