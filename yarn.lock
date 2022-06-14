@@ -369,10 +369,10 @@ fast-deep-equal@^3.1.1, fast-deep-equal@^3.1.3:
   resolved "https://registry.yarnpkg.com/fast-deep-equal/-/fast-deep-equal-3.1.3.tgz#3a7d56b559d6cbc3eb512325244e619a65c6c525"
   integrity sha512-f3qQ9oQy9j2AhBe/H9VC91wLmKBCCU/gDOnKNAYG5hswO7BLKj09Hc5HYNz9cGI++xlpDCIgDaitVs03ATR84Q==
 
-fast-json-stringify@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/fast-json-stringify/-/fast-json-stringify-4.0.0.tgz#b21e49902512aba8a02099e613ee66cd5c13d617"
-  integrity sha512-zv2rRNdLXWr3ZZfpQuE3/QDVeyCOufFOaMTqTGO1r5WB2AJ+ISmbLY2id4W4KG3pcng+MsnBO3ROzh/mlx3uFA==
+fast-json-stringify@^4.0.0, fast-json-stringify@^4.1.0:
+  version "4.2.0"
+  resolved "https://registry.yarnpkg.com/fast-json-stringify/-/fast-json-stringify-4.2.0.tgz#eb49243c79d1deca85eeb488caf69007b7336c7c"
+  integrity sha512-9RWBl82H7jwnPlkZ/ghi0VD5OFZVdwgwVui0nYzjnXbPQxJ3ES1+SQcWIoeCJOgrY7JkBkY/69UNZSroFPDRdQ==
   dependencies:
     ajv "^8.10.0"
     ajv-formats "^2.1.1"
@@ -401,16 +401,17 @@ fastify-tsconfig@^1.0.1:
   resolved "https://registry.yarnpkg.com/fastify-tsconfig/-/fastify-tsconfig-1.0.1.tgz#ec90e45fa8aa72b81178757bd5940c7875037639"
   integrity sha512-BXkTG3JYcjJb3xX5R5FcE9ciscV/h7YtmnkiSaNAONd1g6ooMSN/4GWfhA8hnS6SRZFYBBxsn8719Mj9lbCOtA==
 
-fastify@^4.0.1:
-  version "4.0.1"
-  resolved "https://registry.yarnpkg.com/fastify/-/fastify-4.0.1.tgz#cbf06a2880c7cc58bab689aeb593830e0f52ddd3"
-  integrity sha512-bSny+B9y2jwB1bdhdiXKAg5Nk1mZlSiI4I/rROGq8QXGtth5qPEhxfvkq9+Vb92V2Kl2BwN2BFG5EWRHWmFTnQ==
+fastify@^4.0.2:
+  version "4.0.2"
+  resolved "https://registry.yarnpkg.com/fastify/-/fastify-4.0.2.tgz#c4c68de1056539a16fcccb8d9bea7dd16ac95563"
+  integrity sha512-1DYyRyIqdPbvu/c5Xtt5MF7wQRLO+GbCibRWq+5JhntQVdod9oCy7rGsSNDMjvRgvJY5EUm2UYnBtAsDr5NdFA==
   dependencies:
     "@fastify/ajv-compiler" "^3.1.0"
     "@fastify/error" "^3.0.0"
     "@fastify/fast-json-stringify-compiler" "^3.0.0"
     abstract-logging "^2.0.1"
     avvio "^8.1.3"
+    fast-json-stringify "^4.1.0"
     find-my-way "^6.3.0"
     light-my-request "^5.0.0"
     pino "^8.0.0"
