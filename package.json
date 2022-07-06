@@ -18,7 +18,7 @@
     "@types/node": "latest",
     "cross-env": "^7.0.3",
     "fastify-tsconfig": "^1.0.1",
-    "nodemon": "^2.0.18",
+    "nodemon": "^2.0.19",
     "prettier": "^2.7.1",
     "rimraf": "^3.0.2",
     "tsconfig-paths": "^4.0.0",
