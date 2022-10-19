@@ -240,10 +240,10 @@ fastify-tsconfig@^1.0.1:
   resolved "https://registry.yarnpkg.com/fastify-tsconfig/-/fastify-tsconfig-1.0.1.tgz#ec90e45fa8aa72b81178757bd5940c7875037639"
   integrity sha512-BXkTG3JYcjJb3xX5R5FcE9ciscV/h7YtmnkiSaNAONd1g6ooMSN/4GWfhA8hnS6SRZFYBBxsn8719Mj9lbCOtA==
 
-fastify@^4.9.1:
-  version "4.9.1"
-  resolved "https://registry.yarnpkg.com/fastify/-/fastify-4.9.1.tgz#84765b865666fc7c04891e848fc005dcc0884d22"
-  integrity sha512-n5e3TSO8Wzc8kw8bZoF+ydTbbU9pq0eXNciEAqewa7kwHZQM4o9lRcgZeh7R9IhDSiOuII2kT8Q00y6Cnj7HPg==
+fastify@^4.9.2:
+  version "4.9.2"
+  resolved "https://registry.yarnpkg.com/fastify/-/fastify-4.9.2.tgz#0f5cfb3e1960320a9cae920efb59c3605c5577c7"
+  integrity sha512-Mk3hv7ZRet2huMYN6IJ8RGy1TAAC7LJsCEjxLf808zafAADNu43xRzbl7FSEIBxKyhntTM0F626Oc34LUNcUxQ==
   dependencies:
     "@fastify/ajv-compiler" "^3.3.1"
     "@fastify/error" "^3.0.0"
