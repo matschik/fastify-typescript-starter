@@ -15,7 +15,7 @@
     "fastify": "^4.24.0"
   },
   "devDependencies": {
-    "@types/node": "^20.8.4",
+    "@types/node": "^20.9.0",
     "cross-env": "^7.0.3",
     "fastify-tsconfig": "^2.0.0",
     "nodemon": "^3.0.1",
