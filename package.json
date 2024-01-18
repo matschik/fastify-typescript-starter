@@ -19,7 +19,7 @@
     "cross-env": "^7.0.3",
     "fastify-tsconfig": "^2.0.0",
     "nodemon": "^3.0.2",
-    "prettier": "^3.1.1",
+    "prettier": "^3.2.4",
     "rimraf": "^5.0.5",
     "tsconfig-paths": "^4.2.0",
     "typescript": "^5.3.3"
