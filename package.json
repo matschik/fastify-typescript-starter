@@ -22,6 +22,6 @@
     "prettier": "^3.5.2",
     "rimraf": "^5.0.7",
     "tsconfig-paths": "^4.2.0",
-    "typescript": "^5.7.2"
+    "typescript": "^5.8.3"
   }
 }
