@@ -16,7 +16,7 @@
   },
   "devDependencies": {
     "@types/node": "^24.1.0",
-    "cross-env": "^7.0.3",
+    "cross-env": "^10.0.0",
     "fastify-tsconfig": "^3.0.0",
     "nodemon": "^3.1.10",
     "prettier": "^3.6.2",
