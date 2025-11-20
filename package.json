@@ -20,7 +20,7 @@
     "fastify-tsconfig": "^3.0.0",
     "nodemon": "^3.1.10",
     "prettier": "^3.6.2",
-    "rimraf": "^6.1.0",
+    "rimraf": "^6.1.2",
     "tsconfig-paths": "^4.2.0",
     "typescript": "^5.9.3"
   }
