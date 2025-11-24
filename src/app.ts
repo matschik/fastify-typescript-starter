@@ -1,5 +1,5 @@
 import fastify from "fastify";
-import router from "./router";
+import router from "./router.ts";
 
 const server = fastify({
   // Logger only for production

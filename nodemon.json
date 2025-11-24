@@ -1,5 +1,0 @@
-{
-  "watch": ["dist"],
-  "ext": "js",
-  "exec": "node -r tsconfig-paths/register dist/index.js"
-}
