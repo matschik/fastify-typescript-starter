@@ -7,7 +7,7 @@
 ```bash
 $ git clone https://github.com/Matschik/fastify-typescript-starter.git
 $ cd fastify-typescript-starter
-$ npm run install
+$ npm install
 ```
 
 ## Usage
@@ -33,3 +33,4 @@ $ npm run build
 # start production app
 $ npm run start
 ```
+
