@@ -5,7 +5,7 @@ A simple starter template for building APIs with Fastify and TypeScript using No
 ## Requirements
 
 - **Node.js 24.0.0 or higher**
-- npm or yarn
+- npm
 
 ## Installation
 
